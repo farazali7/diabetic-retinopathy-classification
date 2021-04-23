@@ -2,8 +2,7 @@
 [model_architecture]: ./results/model_architecture.png
 [loss]: ./results/plots/mnetonly-loss.png
 [val_kappa]: ./results/plots/mnetonly-valkappa.png
-[tsne_before]: ./results/plots/feature_vectors_BEFORE.png
-[tsne_after]: ./results/plots/feature_vector_AFTER.png
+[tsne]: ./results/plots/feature_vector_comparison.png
 [exp_table]: ./results/experimental_performance_comparison.png
 [lit_table]: ./results/literature_comparison.png
 
@@ -151,7 +150,7 @@ MobileNetV2 Model Validation Kappa:
 
 t-SNE Visualization of Feature Vectors Before & After CNN Embeddings:
 
-![tsne_before] ![tsne_after]
+![tsne]
 
 MobileNetV2-SVM Hybrid Model Confusion Matrix:
 
